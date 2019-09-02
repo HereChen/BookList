@@ -1,5 +1,4 @@
 # Book List
-2014-08-10 13:16:16
 
 ## Computer Science
 
@@ -14,9 +13,3 @@
 2. **Convex Optimization**, Stephen Boyd / Lieven Vandenberghe, 2004, [http://book.douban.com/subject/1888111/](http://book.douban.com/subject/1888111/)
 3. **Numerical Methods for Unconstrained Optimization and Nonlinear Equations**, Dennis, J. E., Jr./ Schnabel, Robert B., 1987, [http://book.douban.com/subject/2852865/](http://book.douban.com/subject/2852865/)
 4. **Mathematical Problems in Image Processing**, Gilles Aubert / Pierre Kornprobst, 2006, [http://book.douban.com/subject/1840211/](http://book.douban.com/subject/1840211/)
-
-## Temp List
-
-1. ASP.NET设计模式, Scott Millett
-2. 构建高性能可扩展ASP.NET网站, Richard Kiessig
-3. 设计模式, Erich Gamma / Richard Helm / Ralph Johnson / John Vlissides
